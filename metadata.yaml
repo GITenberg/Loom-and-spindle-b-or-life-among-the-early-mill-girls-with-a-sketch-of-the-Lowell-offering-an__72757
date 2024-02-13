@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '864'
     url: http://www.gutenberg.org/2009/agents/864
     wikipedia: https://en.wikipedia.org/wiki/Lucy_Larcom
+covers:
+- cover_type: archival
+  image_path: 72757-h/images/cover-sm.jpg
 creator:
   author:
     agent_name: Robinson, Harriet Jane Hanson
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56511
     wikipedia: https://en.wikipedia.org/wiki/Harriet_Hanson_Robinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72757#Loom-and-spindle-b-or-life-among-the-early-mill-girls-with-a-sketch-of-the-Lowell-offering-an_
 gutenberg_issued: '2024-01-19'
 gutenberg_type: Text
 identifiers:
