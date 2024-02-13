@@ -1,0 +1,58 @@
+_repo: Loom-and-spindle-b-or-life-among-the-early-mill-girls-with-a-sketch-of-the-Lowell-offering-an__72757
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wright, Carroll D. (Carroll Davidson)
+    alias: Wright, Carroll Davidson
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '56800'
+    url: http://www.gutenberg.org/2009/agents/56800
+    wikipedia: https://en.wikipedia.org/wiki/Carroll_D._Wright
+  contributor:
+    agent_name: Larcom, Lucy
+    birthdate: 1824
+    deathdate: 1893
+    gutenberg_agent_id: '864'
+    url: http://www.gutenberg.org/2009/agents/864
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Larcom
+creator:
+  author:
+    agent_name: Robinson, Harriet Jane Hanson
+    aliases:
+    - Robinson, Harriet H. (Harriet Hanson)
+    - Robinson, Harriet Hanson
+    - Robinson, Mrs. W. S.
+    birthdate: 1825
+    deathdate: 1911
+    gutenberg_agent_id: '56511'
+    url: http://www.gutenberg.org/2009/agents/56511
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Hanson_Robinson
+description: ''
+gutenberg_issued: '2024-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72757'
+  lccn: c98000383
+language: en
+pgterms:marc904: https://archive.org/details/loomspindleorlif00robiuoft   and   https://archive.org/details/loomspindleorlif00robi
+pgterms:marc905: 20230926093544robinson
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Susan E., Fay Dunn and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThomas Y. Crowell & Company, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women textile workers -- Massachusetts -- Lowell -- Biography'
+- !lcsh 'Factory system'
+- !lcsh 'Lowell offering'
+- !lcsh 'Lowell (Mass.) -- Social conditions'
+- !lcc 'HD'
+- GITenberg
+title: 'Loom and spindle : $b or life among the early mill girls with a sketch of
+  "the Lowell offering" and some of its contributors'
+url: http://www.gutenberg.org/ebooks/72757
